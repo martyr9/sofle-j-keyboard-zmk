@@ -11,7 +11,7 @@
                 &kp TAB   &kp Q  &kp W  &kp E    &kp R    &kp T
                 &kp LSHFT &kp A  &kp S  &kp D    &kp F    &kp G
                 &kp LCTRL &kp Z  &kp X  &kp C    &kp V    &kp B
-                          &kp LGUI &kp LALT &kp SPACE &kp RET &kp BSPC
+                          &kp LGUI &kp LALT &kp SPACE &kp RET &none
             >;
         };
     };
