@@ -1,4 +1,4 @@
 ---
 include:
-  - board: eyelash_sofle_left
+  - board: nice_nano_v2
     cmake-args: -DCONFIG_ZMK_STUDIO=n -DCONFIG_ZMK_STUDIO_LOCKING=n
