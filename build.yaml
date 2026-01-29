@@ -14,5 +14,5 @@ include:
     artifact-name: eyelash_sofle_left
    # artifact-name: pandakb_sofle_left
   # - board: pandakb_sofle_left
-  - board: eyelash_sofle_left
+ # - board: eyelash_sofle_left
     shield: settings_reset
